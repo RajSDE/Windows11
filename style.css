@@ -410,3 +410,30 @@ iframe{
     position: absolute;
     top: 100px;
 }
+.phone{
+    display: none;
+}
+
+@media (max-width:720px) {
+    body{
+        display: block;
+        content: "";
+        background: url() no-repeat center/cover;
+        width: 100vw;
+        height: 100vh;
+    }
+    .desktop{
+        display: none;
+    }
+    .phone{
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+    }
+    p.notice{
+        margin: auto;
+        text-align: center;
+    }
+    
+
+}
