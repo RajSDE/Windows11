@@ -1,4 +1,4 @@
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Windows11" alt="Visitor badge"/>
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Windows11" alt="Visitor badge"/>
 
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
@@ -16,7 +16,7 @@ I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with
 
 # <p align="center">Project Demonstration</p>
 
-## <p align="center"> Screenshots </p>
+Screenshots
 
 ![Screenshot](./Screenshot/home.png)
 
