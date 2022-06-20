@@ -2,11 +2,11 @@
 
 # <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj!👋
 
-I'm a 3rd Year Engineering Student, & I'm confident to work on the projects with my own experience & skills...
+I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
 - Web Development,
-    - FrontEnd: React | HTML, CSS, JavaScript
-    - BackEnd: Django | Node | JSP
+    - FrontEnd: HTML, CSS, JavaScript
+    - BackEnd: Django 
     - Database: MongoDB | OracleSQL
 - Android Application Development(React Native)
 - Coding Skills in Java (DSA)
